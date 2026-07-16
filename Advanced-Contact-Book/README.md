@@ -117,7 +117,7 @@ ContactBook.json
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Advanced-Contact-Book.git
+git clone https://github.com/ashishpatel3630-art/Contact_Book_py/tree/main/Advanced-Contact-Book
 ```
 
 ---
