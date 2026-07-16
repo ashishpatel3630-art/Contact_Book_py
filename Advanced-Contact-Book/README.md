@@ -203,24 +203,7 @@ streamlit run streamlit_app.py
 
 ### PUT
 
-```
-/update/<name>
-```
 
-Example:
-
-```
-/update/Ashish
-```
-
-Request:
-
-```json
-{
-    "phone":"9999999999",
-    "email":"new@gmail.com"
-}
-```
 
 ---
 
