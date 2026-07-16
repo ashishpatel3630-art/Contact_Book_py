@@ -174,13 +174,6 @@ Run Streamlit:
 streamlit run streamlit_app.py
 ```
 
-Application will open:
-
-```
-http://localhost:8501
-```
-
----
 
 # 🔌 API Documentation
 
