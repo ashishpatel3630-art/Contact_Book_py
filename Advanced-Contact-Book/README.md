@@ -211,17 +211,7 @@ streamlit run streamlit_app.py
 
 ### DELETE
 
-```
-/delete/<name>
-```
 
-Example:
-
-```
-/delete/Ashish
-```
-
----
 
 ## 5. Search Contact
 
