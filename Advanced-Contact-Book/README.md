@@ -175,15 +175,6 @@ streamlit run streamlit_app.py
 ```
 
 
-# 🔌 API Documentation
-
-## Base URL
-
-```
-http://127.0.0.1:5000
-```
-
----
 
 ## 1. Get All Contacts
 
