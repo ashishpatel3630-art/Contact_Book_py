@@ -217,15 +217,7 @@ streamlit run streamlit_app.py
 
 ### GET
 
-```
-/search/<name>
-```
 
-Example:
-
-```
-/search/Ashish
-```
 
 ---
 
