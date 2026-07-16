@@ -152,17 +152,7 @@ python app.py
 
 Backend will start:
 
-```
-http://127.0.0.1:5000
-```
 
-or if port changed:
-
-```
-http://127.0.0.1:5001
-```
-
----
 
 # 🎨 Frontend Setup
 
