@@ -223,17 +223,7 @@ streamlit run streamlit_app.py
 
 # 📸 Application Preview
 
-(Add screenshots here)
 
-Example:
-
-```
-screenshots/
- |
- ├── dashboard.png
- ├── add-contact.png
- └── search.png
-```
 
 ---
 
