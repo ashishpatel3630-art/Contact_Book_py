@@ -196,23 +196,6 @@ streamlit run streamlit_app.py
 /add
 ```
 
-Request:
-
-```json
-{
-    "name":"Ashish",
-    "phone":"9876543210",
-    "email":"ashish@gmail.com"
-}
-```
-
-Response:
-
-```json
-{
-    "message":"Contact Added"
-}
-```
 
 ---
 
