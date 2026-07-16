@@ -24,6 +24,4 @@ A simple **Contact Book Management System** built using **Python** that allows u
 - Functions
 - Dictionary Data Structure
 
----
 
-## 📂 Project Structure
