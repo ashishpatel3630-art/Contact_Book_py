@@ -184,22 +184,7 @@ streamlit run streamlit_app.py
 /contacts
 ```
 
-Example:
 
-```
-GET /contacts
-```
-
-Response:
-
-```json
-{
-    "Ashish":{
-        "phone":"9876543210",
-        "email":"ashish@gmail.com"
-    }
-}
-```
 
 ---
 
