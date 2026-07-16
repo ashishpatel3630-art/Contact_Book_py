@@ -247,17 +247,6 @@ requests
 
 ---
 
-# 🚀 Deployment
-
-## Backend Deployment
-
-Recommended platforms:
-
-- Render
-- Railway
-- AWS EC2
-- Fly.io
-
 
 ## Frontend Deployment
 
